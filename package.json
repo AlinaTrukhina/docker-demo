@@ -1,0 +1,23 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaTrukhina/docker-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaTrukhina/docker-demo/issues"
+  },
+  "homepage": "https://github.com/AlinaTrukhina/docker-demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
